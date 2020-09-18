@@ -4,4 +4,4 @@ pkg install curl
 pkg install shell
 pkg install git
 pkg install python
-sh r.sh
+sh tai.sh
